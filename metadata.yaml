@@ -1,0 +1,27 @@
+_repo: Un-segreto-vol-2-of-2_61323
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farina, Salvatore
+    birthdate: 1846
+    deathdate: 1918
+    gutenberg_agent_id: '7674'
+    url: http://www.gutenberg.org/2009/agents/7674
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Salvatore_Farina
+    - https://it.wikipedia.org/wiki/Salvatore_Farina
+description: ''
+gutenberg_issued: '2020-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61323'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction -- 19th century'
+- !lcc 'PQ'
+- GITenberg
+title: Un segreto, vol. 2 (of 2)
+url: http://www.gutenberg.org/ebooks/61323
